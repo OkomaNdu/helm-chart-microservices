@@ -370,16 +370,3 @@ kubectl delete namespace microservices
 
 ---
 
-## References
-
-| Resource | Link |
-|---|---|
-| Microservices Demo Source | https://github.com/techworld-with-nana/microservices-demo |
-| Helm Chart Config Files | https://gitlab.com/twn-devops-bootcamp/latest/10-kubernetes/helm-chart-microservices |
-| Helmfile Repo | https://github.com/roboll/helmfile |
-| Helm Developer Guide | https://helm.sh/docs/chart_template_guide/ |
-| Liveness & Readiness Probes | https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/ |
-| Resource Requests & Limits | https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-resource-requests-and-limits |
-| K8s Configuration Best Practices | https://kubernetes.io/docs/concepts/configuration/overview/ |
-| emptyDir Volumes | https://kubernetes.io/docs/concepts/storage/volumes/#emptydir |
-| kubectl Cheat Sheet | https://kubernetes.io/docs/reference/kubectl/cheatsheet/ |
